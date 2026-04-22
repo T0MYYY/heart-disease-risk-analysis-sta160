@@ -1,7 +1,7 @@
 # Heart Disease Risk Factor Analysis — UC Davis STA 160 Midterm Project
 
 **Course:** STA 160, Spring 2023, UC Davis  
-**Author:** Chiyang Chen
+**Team:** Chiyang Chen, Keying Liu, Hanying Xu, Yuze Huang
 
 ---
 
