@@ -7,18 +7,17 @@
   <img alt="Term" src="https://img.shields.io/badge/Term-Spring%202023-2a323d?style=flat-square&labelColor=2a323d">
   <img alt="Team" src="https://img.shields.io/badge/Team-Group%20of%204-1f7a3d?style=flat-square&labelColor=2a323d">
   <img alt="Status" src="https://img.shields.io/badge/Status-Midterm-ec5800?style=flat-square&labelColor=2a323d">
-  <img alt="Dataset" src="https://img.shields.io/badge/Dataset-CDC%20BRFSS%202015-0194E2?style=flat-square&labelColor=2a323d">
 </p>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3-3776AB?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.8-3776AB?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-notebook-F37626?style=flat-square&labelColor=2a323d&logo=jupyter&logoColor=white">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=flat-square&labelColor=2a323d&logo=scikitlearn&logoColor=white">
-  <img alt="statsmodels" src="https://img.shields.io/badge/statsmodels-0.14-3B5C8C?style=flat-square&labelColor=2a323d">
-  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-1.x-8CAAE6?style=flat-square&labelColor=2a323d&logo=scipy&logoColor=white">
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-2.x-150458?style=flat-square&labelColor=2a323d&logo=pandas&logoColor=white">
-  <img alt="seaborn" src="https://img.shields.io/badge/seaborn-0.13-4C72B0?style=flat-square&labelColor=2a323d">
-  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-3.x-11557C?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1.2-F7931E?style=flat-square&labelColor=2a323d&logo=scikitlearn&logoColor=white">
+  <img alt="statsmodels" src="https://img.shields.io/badge/statsmodels-0.13-3B5C8C?style=flat-square&labelColor=2a323d">
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-1.10-8CAAE6?style=flat-square&labelColor=2a323d&logo=scipy&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-1.5-150458?style=flat-square&labelColor=2a323d&logo=pandas&logoColor=white">
+  <img alt="seaborn" src="https://img.shields.io/badge/seaborn-0.12-4C72B0?style=flat-square&labelColor=2a323d">
+  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-3.7-11557C?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
 </p>
 <!-- BADGES_END -->
 
